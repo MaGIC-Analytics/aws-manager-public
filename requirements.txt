@@ -1,0 +1,3 @@
+boto3[crt]
+slack_sdk
+requests
